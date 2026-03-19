@@ -1,2 +1,3 @@
-output
-data
+# Ignore the output and data directories
+output/
+data/
