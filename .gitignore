@@ -1,3 +1,15 @@
 # Ignore the output and data directories
 output/
 data/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+notebooks/.db
+# Ignore Python cache files__pycache__/
+*.pyc
+# Ignore virtual environment directories
+venv/
+env/
+# Ignore log files*.log
+# Ignore any other files or directories you want to exclude from version control
+# For example, you can ignore a directory named "temp":
+temp/    
